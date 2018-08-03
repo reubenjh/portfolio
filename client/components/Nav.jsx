@@ -18,9 +18,9 @@ const Nav = () => (
           </div>
 
           <div className="navbar-end">
-            <Link to='/portfolio' className='navbar-item'>portfolio</Link>
-            <Link to='/experience' className='navbar-item'>experience</Link>
-            <Link to='/contact' className='navbar-item'>contact</Link>
+            <Link to='/portfolio' className='navbar-item'>Portfolio</Link>
+            <Link to='/experience' className='navbar-item'>Experience</Link>
+            <Link to='/contact' className='navbar-item'>Contact</Link>
           </div>
         </div>
       </div>

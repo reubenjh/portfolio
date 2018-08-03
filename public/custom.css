@@ -5,7 +5,11 @@
     margin: auto
 }
 
-/* font awesome icon overrides */
-.is-footer-icon {
-    padding: 1rem;
+.is-footer-heading {
+    padding-top: 2rem;
 }
+
+.portfolio {
+    background-color: #fef7f5;
+}
+/* font awesome icon overrides */
