@@ -1,2 +1,11 @@
 /* fiddly little bulma tweaks and overrides */
 
+.img {
+    display: block;
+    margin: auto
+}
+
+/* font awesome icon overrides */
+.is-footer-icon {
+    padding: 1rem;
+}
