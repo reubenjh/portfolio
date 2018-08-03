@@ -7,7 +7,7 @@ import App from './components/App'
 import store from './store'
 
 import './sass/main.scss'
-
+ 
 document.addEventListener('DOMContentLoaded', () => {
   render(
     <Provider store={store}>
